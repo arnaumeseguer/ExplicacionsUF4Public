@@ -34,7 +34,7 @@ public class SuperClasse {
         int i;
         SuperClasse s = new SuperClasse();
 
-        int j = s.metode(34);
+        //int j = s.metode(34);
 
         SubClasse f=new SubClasse();
 
