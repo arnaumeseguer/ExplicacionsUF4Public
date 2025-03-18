@@ -1,4 +1,4 @@
-package org.example.abstrastes;
+package org.example.abstractes;
 
 public abstract class Abstracta { //ficar abstract en el nom de la classe
 
@@ -8,7 +8,7 @@ public abstract class Abstracta { //ficar abstract en el nom de la classe
 
 
     public static void main(String[] args) {
-       // Abstracta a = new Abstracta(); //no es pot instanciar una classe abstracta
+        // Abstracta a = new Abstracta(); //no es pot instanciar una classe abstracta
 
 
     }
