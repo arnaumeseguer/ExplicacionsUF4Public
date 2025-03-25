@@ -21,6 +21,8 @@ class ClasseFull implements FullEquip{
     @Override
     public void metodePerDefecte() {
         FullEquip.super.metodePerDefecte();
+
+        System.out.println("Faig més coses que les que fea el mètode per defecte de la interfície");
     }
 
     public static void main(String[] args) {
