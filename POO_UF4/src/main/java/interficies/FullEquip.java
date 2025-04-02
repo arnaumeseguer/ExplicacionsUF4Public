@@ -3,7 +3,7 @@ package org.example.interficies;
 public interface FullEquip {
 
     //Constants → totes les propietats d'una interfície son public static final
-    int NUMERO_ASIGNATURES_SUSPESES=23;  // Les constants han de tenir un valor per defecte no modificable, a part ha de ser en MAJSUCULES
+    public static final int NUMERO_ASIGNATURES_SUSPESES=23;  // Les constants han de tenir un valor per defecte no modificable, a part ha de ser en MAJSUCULES
 
     //Mètodes abstractes → ja ho hem vist
 

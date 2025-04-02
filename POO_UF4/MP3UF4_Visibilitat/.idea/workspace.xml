@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2adf032a-be35-43f8-abc4-e1c277164a0d" name="Changes" comment="" />
+    <list default="true" id="2adf032a-be35-43f8-abc4-e1c277164a0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../src/main/java/herencia/Progenitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/herencia/Progenitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/polimorfisme/SuperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/polimorfisme/SuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/out/production/POO_UF4/org/example/enumeracions/Prova2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/out/production/POO_UF4/org/example/enumeracions/Prova2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/out/production/POO_UF4/org/example/enumeracions/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/out/production/POO_UF4/org/example/enumeracions/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/out/production/POO_UF4/org/example/herencia/Prova.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/out/production/POO_UF4/org/example/herencia/Prova.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +110,7 @@
       <workItem from="1741676693928" duration="730000" />
       <workItem from="1742141525244" duration="10000" />
       <workItem from="1742392269036" duration="5000" />
+      <workItem from="1743491681510" duration="2000" />
     </task>
     <servers />
   </component>

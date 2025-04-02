@@ -30,4 +30,18 @@ class Verga extends Object implements NovaAmpliacio, Serializable { // Les class
     public void ampliacio() {
 
     }
+
+    interface int1 {
+        abstract void metodeAbstracte();
+    }
+
+    interface int2 {
+        abstract void metodeAbstracte();
+    }
+
+    interface implements int2{
+        int1 i = new int1();
+
+        i.metodeAbstracte();
+    }
 }

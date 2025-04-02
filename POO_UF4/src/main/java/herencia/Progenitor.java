@@ -1,5 +1,7 @@
 package org.example.herencia;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class Progenitor {
     private int propEntera; //lo privat no s'hereda
     protected boolean propLogica;
@@ -21,8 +23,7 @@ public class Progenitor {
     }
 }
 
-class Filla extends Progenitor { //extends s'utilitza per heretar sobre quina classe volem
-
+class Filla extends Progenitor {//extends s'utilitza per heretar sobre quina classe volem
 }
 
 class Prova {

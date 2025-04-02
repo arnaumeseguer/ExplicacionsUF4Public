@@ -1,6 +1,6 @@
 package org.example.enumeracions;
 
-public enum EnumeracioComplexa {
+public enum EnumeracioComplexa  {
     MERCURI(1,2), VENUS(2,3), TERRA(3,4), LLUNA(5,6);
 
     //Les constants poden ser publiques
@@ -51,6 +51,9 @@ class Prova2{
         System.out.println("La massa de mercuri segons l'operació "+EnumeracioComplexa.MERCURI.operacio(5));
 
         //Podem mostrar totes les constants d'una enumeracio
+        /**
+         * for each
+         */
         for(EnumeracioComplexa elem: EnumeracioComplexa.values()){
             System.out.println(elem.name()); //elem.name serveix com un getter
             System.out.println(elem.ordinal());
